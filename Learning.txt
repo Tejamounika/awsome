@@ -1,3 +1,5 @@
 topics to be covered today
 
 add reviewer in pull request
+merge types in pull request
+create account in git hub and copy the code
