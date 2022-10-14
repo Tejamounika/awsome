@@ -7,3 +7,7 @@ create account in git hub and copy the code
 creating branch in github 
 pull request
 merge
+
+complete
+final copy
+
